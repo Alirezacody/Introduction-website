@@ -36,7 +36,7 @@
 
 .section-katoni-col{
     width:100%;
-    height:300px;
+    height:450px;
     background-color: rgb(17, 17, 17);
 }
 
@@ -47,11 +47,12 @@
 .katoni-float{
     float:right;
     width:17%;
-    margin: 2.5%;
+    margin: 4%;
     color:white;
     height: fit-content;
     border:2px solid white;
     border-radius: 20px;
+    margin-top:4%;
 }
 .katoni-float img{
     width:100%;
@@ -59,4 +60,10 @@
     border-bottom-right-radius:0% ;
     border-bottom-left-radius: 0%;
     height:150px;
+}
+
+.title-katoni{
+    color:orange;
+    margin-right: 5%;
+    font-size:1.6em;
 }
