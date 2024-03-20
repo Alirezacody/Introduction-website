@@ -67,3 +67,12 @@
     margin-right: 5%;
     font-size:1.6em;
 }
+
+
+.end-part{
+    background-color: orange;
+    text-align: center;
+    font-size:1.7em;
+    height:200px;
+    padding-top:5%;
+}
