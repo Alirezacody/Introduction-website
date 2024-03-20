@@ -4,10 +4,18 @@
     box-sizing:border-box;
 }
 
-body{
-    background-color:green;
+.title{
+    background-color: orange;
+    text-align: center;
+    font-weight:bold;
+    height:80px;
 }
 
-p{
-    color:white;
+.hero{
+    height:500px;
+    width:100%;
+}
+.hero img{
+    width:100%;
+    height:100%;
 }
