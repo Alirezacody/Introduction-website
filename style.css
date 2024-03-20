@@ -16,6 +16,10 @@
     font-family: 'Lalezar';
 }
 
+body{
+    background-color:#0000;
+}
+
 .title{
     background-color: orange;
     text-align: center;
